@@ -1,0 +1,5 @@
+node_modules
+.env
+.gitignore
+backage-lock.json
+.directory
